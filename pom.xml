@@ -463,15 +463,10 @@
 		       <version>3.11.0</version>
 		        <configuration>
 
-          <minimumTokens>100</minimumTokens>
+          <minimumTokens>25</minimumTokens>
 
         </configuration>
-		       
-		    </plugin>
-		    
-		    
-		    
-		    
+	    </plugin>
         </plugins>
     </reporting>
 
